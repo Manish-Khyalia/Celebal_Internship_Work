@@ -15,3 +15,7 @@ Learn Python basics and perform basic data exploration and cleaning using Pandas
 ## Files
 - Week1.ipynb
 - cleaned_dataset.csv
+
+## Dataset Source
+Original dataset used in this project was obtained from Kaggle.
+- Source: https://www.kaggle.com/datasets/anvitkumar/shopping-dataset
