@@ -4,4 +4,5 @@ This repository contains all weekly assignments completed during the Celebal Tec
 
 ## Repository Structure
 
-- Week1_Data_Loading_and_Cleaning
+Week1_Data_Loading_and_Cleaning
+Week 2: SQL Database and Querying
