@@ -8,3 +8,4 @@ Week1_Data_Loading_and_Cleaning
 Week 2: SQL Database and Querying
 Week 3: Advanced SQL (Subqueries, CTEs & Window Functions)
 Week 4 - Azure Data Factory pipeline for metadata validation and CSV file transfer using Azure Blob Storage.
+Week 5 - Apache Spark (PySpark) data cleaning, filtering, aggregation, timestamp conversion, and data processing pipeline implementation.
