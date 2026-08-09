@@ -11,3 +11,4 @@ Week 4 - Azure Data Factory pipeline for metadata validation and CSV file transf
 Week 5 - Apache Spark (PySpark) data cleaning, filtering, aggregation, timestamp conversion, and data processing pipeline implementation.
 Week 6 - Apache Spark Data Processing
 Week 7 - Delta Lake incremental data processing using Databricks, including data loading, data cleaning, MERGE (upsert) operations, validation, and final Delta table creation.
+Week 8 - End-to-end E-commerce Data Analysis project including data cleaning using Python (Pandas), data quality validation, loading cleaned data into MySQL, and performing SQL-based analysis such as joins, aggregations, window functions, revenue trends, and customer insights.
